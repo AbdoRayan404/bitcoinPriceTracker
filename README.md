@@ -1,7 +1,7 @@
 # bitcoinPriceTracker
 this project made to Help me track the Bitcoin price easly and see the if it go up or down without doing any math
 
-# this project is done yet some Features in the Future:
+# this project is not done yet some Features in the Future:
 - it will send you an email if the price go under a specifec price 
 - it will have how many percent the price change
 - it will have a GUI with a prices graph
