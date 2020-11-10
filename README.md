@@ -15,3 +15,5 @@ this project made to Help me track the Bitcoin price easly and see the if it go 
 # gray means that the price still the same comparing with the previous price
 + green means that the price is go donw comparing with the previous price
 ```
+# in the script test:
+! [alt text] (https://imgur.com/wHo9bvJ.png)
